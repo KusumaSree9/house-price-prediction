@@ -1,3 +1,5 @@
+The complete analysis, visualizations, and model outputs are available in the Jupyter Notebook rendered on GitHub.
+
 # House Price Prediction using Machine Learning
 
 ## Objective
